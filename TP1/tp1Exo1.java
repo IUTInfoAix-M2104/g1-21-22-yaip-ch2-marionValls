@@ -1,4 +1,3 @@
-import java.util.Scanner;
 public class tp1Exo1 {
 	public static void carre()
 	{
